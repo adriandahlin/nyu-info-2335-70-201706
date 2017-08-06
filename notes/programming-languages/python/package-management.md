@@ -1,4 +1,4 @@
-# Pyhon Language Overview
+# Python Language Overview
 
 ## Package Management
 
